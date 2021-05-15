@@ -1,0 +1,19 @@
+.bor-modd1{
+    border: 3px solid white;
+}
+
+input[type="button"]{
+    display: block;
+    float: left;
+    width: 20%;
+    border: 2px solid rgb(112, 112, 112);
+}
+
+input{
+    font-size: 50px !important;
+}
+
+body{
+    background-color: black;
+}
+
